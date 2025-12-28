@@ -31,7 +31,7 @@ function AdminTab({
             <div className="dashboard-grid">
                 {/* Cột 1: Cấu hình Môi trường */}
                 <div className="card">
-front                    <h3>Biến Môi Trường (Vĩ mô)</h3>
+                    <h3>Biến Môi Trường (Vĩ mô)</h3>
                     <p className="small-text">Điều chỉnh các chỉ số kinh tế để cập nhật ngưỡng rủi ro.</p>
 
                     <div className="form-group">
@@ -50,7 +50,7 @@ front                    <h3>Biến Môi Trường (Vĩ mô)</h3>
 <span>{envData.geopolitics_W || 0}</span>
                     </div>
                     <div className="form-group">
-                        <label>Dự trữ ngoại hối (USD):</label>
+                        <label>Vốn dự trữ của ngân hàng (VNĐ):</label>
                         <input
     type="text"
     name="reserve_V"
