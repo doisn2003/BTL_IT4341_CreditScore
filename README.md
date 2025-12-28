@@ -4,7 +4,7 @@ Dự án này là một hệ thống hỗ trợ ra quyết định (DSS) kết h
 
 ## Cấu trúc dự án
 
-- **backend/**: Server xử lý logic, chạy mô hình AI (giả lập) và thuật toán DSS.
+- **backend/**: Server xử lý logic, chạy mô hình AI và thuật toán DSS.
 - **frontend/**: Giao diện người dùng cho Khách hàng (nhập liệu) và Admin (cấu hình, phê duyệt).
 
 ## Hướng dẫn cài đặt và chạy
