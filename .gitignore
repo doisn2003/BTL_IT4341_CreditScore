@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+# Ignore venv libraries but keep the user code inside it (since user put code in venv)
+backend/venv/Lib/
+backend/venv/Scripts/
+backend/venv/Include/
+backend/venv/pyvenv.cfg
+backend/venv/.gitignore
+backend/venv/__pycache__/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.log
+*.pyc
