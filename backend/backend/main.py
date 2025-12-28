@@ -77,7 +77,7 @@ def evaluate_loan(data: LoanApplicationRequest):
         credit_score_Y = random.uniform(0.0, 0.4)
 
     # ---------------------------------------------------------
-    # BƯỚC 2: CHẠY HỆ THỐNG DSS (Phần việc của bạn)
+    # BƯỚC 2: CHẠY HỆ THỐNG DSS
     # ---------------------------------------------------------
 
     # Cấu hình hằng số hệ thống
